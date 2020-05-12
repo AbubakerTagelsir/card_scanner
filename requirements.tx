@@ -1,0 +1,6 @@
+Django>=2.0
+tesseract-ocr
+libtesseract-dev
+PIL
+pytesseract
+
