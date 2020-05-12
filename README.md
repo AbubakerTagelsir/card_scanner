@@ -22,39 +22,4 @@ the images will be processed using pytesseract to extract the data from them the
 
 Project Structure
 
-.
-├── card_scanner
-
-│   ├── asgi.py
-
-│   ├── __init__.py
-
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── db.sqlite3
-├── docker-compose.yml
-├── Dockerfile
-├── DockerImageContent
-├── LICENSE
-├── manage.py
-├── README.md
-├── requirements.tx
-├── requirements.tx.save
-└── scanner
-    ├── admin.py
-    ├── apps.py
-    ├── __init__.py
-    ├── migrations
-    │   ├── 0001_initial.py
-    │   ├── 0002_card_source_image.py
-    │   ├── 0003_card_create_date.py
-    │   ├── __init__.py
-    ├── models.py
-    ├── templates
-    │   └── scanner
-    │       └── index.html
-    ├── tests.py
-    ├── urls.py
-    └── views.py
-
+![alt text](https://github.com/AbubakerTagelsir/card_scanner/blob/master/structure.png?raw=true)
