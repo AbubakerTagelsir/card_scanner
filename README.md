@@ -24,8 +24,11 @@ Project Structure
 
 .
 ├── card_scanner
+
 │   ├── asgi.py
+
 │   ├── __init__.py
+
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
