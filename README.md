@@ -22,4 +22,4 @@ the images will be processed using pytesseract to extract the data from them the
 
 Project Structure
 
-![alt text](https://github.com/AbubakerTagelsir/card_scanner/blob/master/structure.png?raw=true)
+https://github.com/AbubakerTagelsir/card_scanner/blob/master/struture.png
