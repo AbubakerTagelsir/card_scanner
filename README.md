@@ -1,4 +1,4 @@
-# card_scanner
+# Card Scanner
 
 For the project installation first you have to install docker using the link below 
 https://docs.docker.com/engine/install/ubuntu/
